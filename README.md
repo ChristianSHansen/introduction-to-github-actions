@@ -198,6 +198,8 @@ Merge your pull request so the action will be a part of the `main` branch.
   Define terms and link to docs.github.com.
 -->
 
+:smiley_cat:
+
 <details id=5 open>
 <summary><h2>Step 5: Trigger the workflow</h2></summary>
 
